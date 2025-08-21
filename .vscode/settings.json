@@ -2,6 +2,6 @@
     "editor.suggest.matchOnWordStartOnly": false,
     "typescript.tsserver.web.projectWideIntellisense.enabled": false,
     "typescript.tsserver.web.projectWideIntellisense.suppressSemanticErrors": false,
-    "editor.suggest.showClasses": false,
+    "editor.suggest.showClasses": true,
     "editor.suggest.showColors": false
 }
